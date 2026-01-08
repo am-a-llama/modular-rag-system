@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .DS_Store
 storage/
+
+app.py
+requirements.txt
+
+qdrant_db/
